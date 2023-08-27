@@ -1,0 +1,6 @@
+{
+  "selectors": {
+    "temu": ".lazy-image[aria-label="Goods Image"]:not(.loaded)",
+    "shein": ".swiper-slide img.crop-image-container__img[data-src]"
+  }
+}
